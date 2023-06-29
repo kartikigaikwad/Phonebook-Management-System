@@ -14,3 +14,8 @@ This project is a phonebook management system implemented using linked lists. It
 
 # Acknowledgements
 This project was inspired by the need for a simple and efficient phonebook management system. 
+
+# Skills Used
+ C programming, data structures , sorting, debugging, and problem-solving to 
+successfully complete the project.
+
